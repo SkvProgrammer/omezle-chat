@@ -12,10 +12,6 @@ I AM CURRENTLY WORKING ON IT'S SCALABILITY TO HANDLE UPTO 40-50k CONCURRENT USER
 <img width="1916" height="912" alt="omezle home page real" src="https://github.com/user-attachments/assets/c97e1345-be07-49ea-a6bb-92cb7a6bf1e5" />
 
 
-Here’s a clear and professional list of **Omezle’s features** you can put in your README or pitch — I’ve structured them as points for easy reading:
-
----
-
 ### **Omezle Features**
 
 1. **Random Chat with Strangers**
