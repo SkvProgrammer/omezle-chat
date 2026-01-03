@@ -9,4 +9,4 @@ If you are interested, please contact me at: **satyamkumarverman@gmail.com**.
 
 I AM CURRENTLY WORKING ON IT'S SCALABILITY TO HANDLE UPTO 40-50k CONCURRENT USERS 
 
-<img width="1914" height="876" alt="omezle home page" src="https://github.com/user-attachments/assets/a944d4aa-50ad-4ea6-9ec7-ce0ce0567b1f" />
+<img width="1916" height="912" alt="omezle home page real" src="https://github.com/user-attachments/assets/c97e1345-be07-49ea-a6bb-92cb7a6bf1e5" />
